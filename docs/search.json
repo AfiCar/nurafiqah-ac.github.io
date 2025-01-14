@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Home\n\nAbout\nReflections\nContact\n\n\n\n\n\n\nFootball has been a central part of my life ever since I kicked my first ball as a child. Over the years, I’ve played for local clubs, school teams, and friendly tournaments. It’s not just a sport for me—it’s a way to challenge myself, build friendships, and express my passion for teamwork and strategy.\n\nFavorite Position: [Your Favorite Position, e.g., Striker, Midfielder]\nMemorable Moment: Scoring the winning goal in a championship match.\nFavorite Teams: [List Your Favorite Football Clubs or National Teams]\n\n\n\n\n\nFamily is the cornerstone of my life. They’ve supported me in every step of my journey—whether it’s cheering me on at football matches or helping me achieve my academic and personal goals.\n\nI have [number] siblings, and we love spending time together watching football and playing outdoor games.\nMy parents are my greatest inspiration, teaching me the values of hard work, perseverance, and kindness.\nOur favorite family activity? Watching big football matches together and celebrating with home-cooked meals.\n\n\n\n\n\nEducation has played a crucial role in shaping who I am today. My school years were filled with both academic challenges and exciting extracurricular activities.\n\nFavorite Subjects: [Your Favorite Subjects, e.g., Mathematics, Physical Education]\nExtracurriculars: Captain of the school football team, member of the debate club, and active participant in science fairs.\nAchievements:\n\nTop scorer in the inter-school football league.\nRepresented my school in regional academic competitions.\nAwarded [Specific School Award, e.g., “Best All-Rounder”] for excelling in sports and academics.\n\n\nSchool taught me the value of discipline, teamwork, and time management—skills that have been invaluable both on and off the field.\n\n\n\n\n\nI started playing football at the age of 6.\nMy dream is to watch the FIFA World Cup live one day.\nI once scored a hat-trick in a friendly match with my friends!\n\n\nThank you for reading more about me! Head back to the Home page to explore more or check out my Reflections on life and football."
+    "text": "Home\n\nAbout\nReflections\nContact"
   },
   {
     "objectID": "index.html",
@@ -73,22 +73,22 @@
     "objectID": "about.html#my-football-journey",
     "href": "about.html#my-football-journey",
     "title": "About Me",
-    "section": "",
-    "text": "Football has been a central part of my life ever since I kicked my first ball as a child. Over the years, I’ve played for local clubs, school teams, and friendly tournaments. It’s not just a sport for me—it’s a way to challenge myself, build friendships, and express my passion for teamwork and strategy.\n\nFavorite Position: [Your Favorite Position, e.g., Striker, Midfielder]\nMemorable Moment: Scoring the winning goal in a championship match.\nFavorite Teams: [List Your Favorite Football Clubs or National Teams]"
+    "section": "My Football Journey",
+    "text": "My Football Journey\nFootball has been a central part of my life ever since I kicked my first ball as a child. Over the years, I’ve played for local clubs, school teams, and the national team. It’s not just a sport for me—it’s a way to challenge myself, build friendships, and express my passion for teamwork and strategy.\n\nFavorite Position: Centre Midfield\nMemorable Moment: Scoring the winning goal in a championship match.\nFavorite Teams: Manchester United"
   },
   {
     "objectID": "about.html#my-family",
     "href": "about.html#my-family",
     "title": "About Me",
-    "section": "",
-    "text": "Family is the cornerstone of my life. They’ve supported me in every step of my journey—whether it’s cheering me on at football matches or helping me achieve my academic and personal goals.\n\nI have [number] siblings, and we love spending time together watching football and playing outdoor games.\nMy parents are my greatest inspiration, teaching me the values of hard work, perseverance, and kindness.\nOur favorite family activity? Watching big football matches together and celebrating with home-cooked meals."
+    "section": "My Family",
+    "text": "My Family\nFamily is the cornerstone of my life. They’ve supported me in every step of my journey—whether it’s cheering me on at football matches or helping me achieve my academic and personal goals.\n\nI have 2 siblings, and we love spending time together.\nMy parents are my greatest inspiration, teaching me the values of hard work, perseverance, and kindness.\nOur favorite family activity? Going out for a nice meal as a family.\n\n\n\n\nThe Singapore Institute of Technology (SIT) is Singapore’s first University of Applied Learning and the third largest university by intake in Singapore. SIT’s mission is to maximise the potential of our learners and to innovate with industry, through an integrated applied learning and research approach, so as to contribute to the economy and society."
   },
   {
     "objectID": "about.html#my-school-life",
     "href": "about.html#my-school-life",
     "title": "About Me",
-    "section": "",
-    "text": "Education has played a crucial role in shaping who I am today. My school years were filled with both academic challenges and exciting extracurricular activities.\n\nFavorite Subjects: [Your Favorite Subjects, e.g., Mathematics, Physical Education]\nExtracurriculars: Captain of the school football team, member of the debate club, and active participant in science fairs.\nAchievements:\n\nTop scorer in the inter-school football league.\nRepresented my school in regional academic competitions.\nAwarded [Specific School Award, e.g., “Best All-Rounder”] for excelling in sports and academics.\n\n\nSchool taught me the value of discipline, teamwork, and time management—skills that have been invaluable both on and off the field."
+    "section": "My School Life",
+    "text": "My School Life\nEducation has played a crucial role in shaping who I am today. My school years were filled with both academic challenges and exciting extracurricular activities.\nSchool taught me the value of discipline, teamwork, and time management—skills that have been invaluable both on and off the field."
   },
   {
     "objectID": "about.html#fun-facts-about-me",
@@ -96,5 +96,26 @@
     "title": "About Me",
     "section": "",
     "text": "I started playing football at the age of 6.\nMy dream is to watch the FIFA World Cup live one day.\nI once scored a hat-trick in a friendly match with my friends!\n\n\nThank you for reading more about me! Head back to the Home page to explore more or check out my Reflections on life and football."
+  },
+  {
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Reflections",
+    "section": "",
+    "text": "Here is my reflection on Generative AI\nGenerative artificial intelligence (GenAI) has revolutionized the field by providing effective tools for efficiency, creativity, and problem-solving. It enables users to approach jobs more precisely, streamlining intricate operations and creating opportunities for creativity. To guarantee responsible application, its use necessitates careful consideration. GenAI promotes a mutually beneficial interaction between people and technology, in which AI enhances rather than replaces human innovation.\nHowever, its over-reliance could inhibit creative thinking, which would raise questions about ethics and authenticity. Transparency in its uses, especially in writing, design, and education, requires careful thought."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "contact",
+    "section": "",
+    "text": "Home\n\nAbout\nReflections\nContact\n\n\n\n\n\n\n\nEmail: nurafiqahbteomar09@gmail.com](mailto:nurafiqahbteomar09@gmail.com)\n\nPhone: +65 9180 8661\n\nLooking forward to connecting with you!"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "contact",
+    "section": "",
+    "text": "Email: nurafiqahbteomar09@gmail.com](mailto:nurafiqahbteomar09@gmail.com)\n\nPhone: +65 9180 8661\n\nLooking forward to connecting with you!"
   }
 ]

@@ -20,7 +20,7 @@ Football has been a central part of my life ever since I kicked my first ball as
 - **Memorable Moment:** Scoring the winning goal in a championship match.
 - **Favorite Teams:** Manchester United
 
-{{< video https://www.youtube.com/watch?v=_lokQUysWd8 width="600" height="400" >}}
+{{< video https://www.youtube.com/watch?v=fday0WnFleM width="600" height="400" >}}
 
 ---
 
@@ -31,6 +31,12 @@ Family is the cornerstone of my life. They’ve supported me in every step of my
 - I have 2 siblings, and we love spending time together.
 - My parents are my greatest inspiration, teaching me the values of hard work, perseverance, and kindness.
 - Our favorite family activity? Going out for a nice meal as a family.
+
+::: {style="float:left; position: relative; top: 0px"}
+![](images/sch_logo.png){height="100px" style="margin-right: 10px; align: left"}
+:::
+
+The Singapore Institute of Technology (SIT) is Singapore’s first University of Applied Learning and the third largest university by intake in Singapore. SIT’s mission is to maximise the potential of our learners and to innovate with industry, through an integrated applied learning and research approach, so as to contribute to the economy and society.
 
 ---
 

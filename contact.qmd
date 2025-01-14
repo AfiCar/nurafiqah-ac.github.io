@@ -2,4 +2,20 @@
 title: "contact"
 format: html
 ---
+# Contact Me
 
+<nav>
+  - [Home](index.qmd)
+  - [About](about.qmd)
+  - [Reflections](reflections.qmd)
+  - [Contact](contact.qmd)
+</nav>
+
+---
+
+## Get in Touch
+
+- **Email:** nurafiqahbteomar09@gmail.com](mailto:nurafiqahbteomar09@gmail.com)  
+- **Phone:** +65 9180 8661  
+
+Looking forward to connecting with you!
