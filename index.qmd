@@ -1,11 +1,29 @@
 ---
-title: "temp_website"
+title: "About Me"
+author: "Nur Afiqah Bte Omar"
+format: html
 ---
 
-This is a Quarto website.
+# About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is **[Nur Afiqah Bte Omar]**, and I am a **[Your Profession or Interest]**. I am passionate about **[Your Passions or Interests]**. I created this page to share a little bit about myself with the world.
 
-```{r}
-1 + 1
-```
+## My Hobbies
+
+- Reading books
+- Playing guitar
+- Traveling to new places
+- Learning new technologies
+
+## Contact Me
+
+You can reach me at:
+
+- **Email:** [yourname@example.com](mailto:yourname@example.com)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)
+
+---
+
+© 2025 [Your Name]. All Rights Reserved.
+
