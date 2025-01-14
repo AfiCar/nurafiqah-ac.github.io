@@ -11,6 +11,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - reflections.qmd
+      - contact.qmd
 
 format:
   html:

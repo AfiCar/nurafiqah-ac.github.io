@@ -6,12 +6,11 @@ format: html
 
 # About Me
 
-Hi! My name is **[Nur Afiqah Bte Omar]**, and I am a **[Your Profession or Interest]**. I am passionate about **[Your Passions or Interests]**. I created this page to share a little bit about myself with the world.
+Hi! My name is **[Nur Afiqah Bte Omar]**, and I am a **Student**. I am passionate about **Football**. I created this page to share a little bit about myself with the world.
 
 ## My Hobbies
 
-- Reading books
-- Playing guitar
+- Football
 - Traveling to new places
 - Learning new technologies
 
@@ -22,6 +21,9 @@ You can reach me at:
 - **Email:** [yourname@example.com](mailto:yourname@example.com)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)
+
+## Reflection
+
 
 ---
 
