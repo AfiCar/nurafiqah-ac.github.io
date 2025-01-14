@@ -1,31 +1,54 @@
 ---
-title: "About Me"
-author: "Nur Afiqah Bte Omar"
+title: "Welcome to My Website"
 format: html
 ---
 
-# About Me
+# Afiqah's World
 
-Hi! My name is **[Nur Afiqah Bte Omar]**, and I am a **Student**. I am passionate about **Football**. I created this page to share a little bit about myself with the world.
+<nav>
+  - [Home](index.qmd)
+  - [About](about.qmd)
+  - [Reflections](reflections.qmd)
+  - [Contact](contact.qmd)
+</nav>
 
-## My Hobbies
+## Introduction
 
-- Football
-- Traveling to new places
-- Learning new technologies
-
-## Contact Me
-
-You can reach me at:
-
-- **Email:** [yourname@example.com](mailto:yourname@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourprofile](https://github.com/yourprofile)
-
-## Reflection
-
+Hello and welcome! This website serves as a hub to share more about who I am, my thoughts, and how to get in touch with me. Whether you're a friend, a professional contact, or just someone curious to learn more, I hope you find this space engaging and insightful.
 
 ---
 
-© 2025 [Your Name]. All Rights Reserved.
+## Explore the Website
 
+- **[About](about.qmd):** Learn about my background, interests, and passions. It's a space to get to know me better.
+- **[Reflections](reflections.qmd):** Dive into my thoughts, experiences, and lessons learned through various aspects of my personal and professional journey.
+- **[Contact](contact.qmd):** Want to connect? Find all the ways to reach out to me.
+
+---
+
+## Media Showcase
+
+### A Picture of My Football Journey
+![Picture against Guam](images/scholes.jpg)
+
+> Caption: This is one of my favorite football memories. The beautiful sport that inspires me every day to do better.
+
+---
+
+### A Glimpse Into My World
+Here’s a picture of my latest achievement:
+![Picture of SIT being SUNIG Champions](images/first11.jpg)
+
+> Caption: A sneak peek into my football journey. Want to know more? head over to the About Page! 
+
+---
+
+## Fun Facts About Me
+
+- ⚽ I’ve been playing football since I was 8 years old.
+- 🏆 I play the position of the Centre Defensive Midfielder
+- 🌍 I am obsessed with Manchester United and never miss their matches.
+
+---
+
+Feel free to explore and enjoy your stay!

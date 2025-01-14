@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Afiqah's Portfolio"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - reflections.qmd
-      - contact.qmd
+      - href: about.qmd
+        text: About
+      - href: reflections.qmd
+        text: Reflections
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

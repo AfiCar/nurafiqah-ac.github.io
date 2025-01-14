@@ -1,9 +1,43 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+<nav>
+  - [Home](index.qmd)
+  - [About](about.qmd)
+  - [Reflections](reflections.qmd)
+  - [Contact](contact.qmd)
+</nav>
 
-```{r}
-1 + 1
-```
+---
+
+## My Football Journey
+
+Football has been a central part of my life ever since I kicked my first ball as a child. Over the years, I’ve played for local clubs, school teams, and the national team. It’s not just a sport for me—it’s a way to challenge myself, build friendships, and express my passion for teamwork and strategy.
+
+- **Favorite Position:** Centre Midfield
+- **Memorable Moment:** Scoring the winning goal in a championship match.
+- **Favorite Teams:** Manchester United
+
+{{< video https://www.youtube.com/watch?v=_lokQUysWd8 width="600" height="400" >}}
+
+---
+
+## My Family
+
+Family is the cornerstone of my life. They’ve supported me in every step of my journey—whether it’s cheering me on at football matches or helping me achieve my academic and personal goals. 
+
+- I have 2 siblings, and we love spending time together.
+- My parents are my greatest inspiration, teaching me the values of hard work, perseverance, and kindness.
+- Our favorite family activity? Going out for a nice meal as a family.
+
+---
+
+## My School Life
+
+Education has played a crucial role in shaping who I am today. My school years were filled with both academic challenges and exciting extracurricular activities. 
+
+School taught me the value of discipline, teamwork, and time management—skills that have been invaluable both on and off the field.
+
+---
